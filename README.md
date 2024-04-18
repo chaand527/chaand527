@@ -1,6 +1,4 @@
-
-
-
+![LOGO](https://github.com/chaand527/chaand527/blob/main/technology-wallpaper-15.jpg)
 <h1 align="center">Hi 👋, I'm Chandrashekar poojary</h1>
 <h3 align="center">A passionate Robotics and AI learner from india</h3>
 
